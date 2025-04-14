@@ -3,7 +3,7 @@
 
 Este projeto tem como objetivo realizar uma análise exploratória de dados de vendas de um supermercado, utilizando **Python**, **Pandas** e **Matplotlib**.
 
-## 🧠 O que foi analisado?
+## O que foi analisado?
 
 - Receita total da empresa
 - Receita por cidade
@@ -12,11 +12,11 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados de v
 
 ## Tecnologias utilizadas
 
-- Python 🐍
+- Python 
 - Pandas
 - Matplotlib
 - VS Code
-- Git & GitHub
+
 
 ## Como executar
 
